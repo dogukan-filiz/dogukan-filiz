@@ -1,5 +1,4 @@
 <h1 align="center">Doğukan Filiz</h1>
-<p align="center">Computer Engineering graduate building end-to-end ML systems for fraud & risk detection.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dogukanfiliz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
