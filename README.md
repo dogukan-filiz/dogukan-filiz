@@ -64,13 +64,5 @@ End-to-end system detecting AI-generated speech for banking call-center and tele
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dogukan-filiz&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dogukan-filiz&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogukan-filiz&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogukan-filiz&layout=compact&hide_border=true" alt="Top Languages"/>
-</p>
-
----
-
-<p align="center"><i>Turkish (Native) · English (B2)</i></p>
