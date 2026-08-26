@@ -60,9 +60,8 @@ End-to-end system detecting AI-generated speech for banking call-center and tele
 
 ---
 
-### GitHub Stats
+### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dogukan-filiz&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogukan-filiz&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://ghchart.rshah.org/dogukan-filiz" alt="Doğukan's GitHub contribution chart"/>
 </p>
